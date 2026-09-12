@@ -43,13 +43,3 @@ Urban families in Pune are increasingly concerned about milk adulteration, prese
 
 ---
 
-## 📞 Let’s Launch Your Digital Storefront
-
-We are excited to help **BePure** become the leading direct-to-consumer farm dairy brand in Pune. 
-
-**Next Steps:**
-1. **Walkthrough & Customization Review:** Review your specific product SKUs, packaging sizes, pricing tiers, and delivery zones.
-2. **Contract Sign-off & Milestone Agreement:** Finalize the timeline, deliverables, and payment milestones.
-3. **Payment & Route Integration:** Connect your merchant account (Razorpay/Cashfree) and launch live orders to your Pune customers.
-
-*Let's build a profitable, technology-powered future for your dairy business together.*
