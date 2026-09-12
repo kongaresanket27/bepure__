@@ -43,29 +43,6 @@ Urban families in Pune are increasingly concerned about milk adulteration, prese
 
 ---
 
-## 🚀 Full Production Roadmap (Delivered Upon Contract Award)
-
-When you partner with us to bring this platform to full production, we will integrate and activate the complete operational infrastructure:
-
-| Phase | Deliverable | Business Impact |
-| :--- | :--- | :--- |
-| **Phase 1: Payments & Banking** | Native UPI (Google Pay, PhonePe, Paytm), Net Banking, Cards & Cash on Delivery. | Seamless instant payments with automated reconciliation. |
-| **Phase 2: WhatsApp Automation** | Automated order confirmations, delivery dispatch alerts, and morning 6:30 AM door-drop pings via WhatsApp Business API. | Reduces customer support calls by 70% and builds delight. |
-| **Phase 3: Subscriptions & Wallet** | Flexible recurring subscriptions (Daily, Alternate Days) with one-click vacation pause and customer prepaid wallet. | Predictable monthly cash flow and automated daily route demand. |
-| **Phase 4: Driver & Route App** | Back-office dispatch dashboard generating morning driver manifests and delivery checklists organized by Pune sector. | Eliminates manual paperwork and delivery misplacements. |
-| **Phase 5: Inventory & Cold-Room Sync**| Real-time stock sync with cold-storage inventory to prevent overselling of perishable paneer and raw milk. | Minimizes spoilage and optimizes farm procurement. |
-
----
-
-## 💼 Why Award This Contract to Us?
-
-1. **Industry-Specific Design:** We didn't build a generic template — this platform was created from the ground up for the unique requirements of fresh Indian dairy, cold-chain transparency, and local apartment deliveries.
-2. **Lightning-Fast Performance:** Designed to load in under a second even on mobile 4G networks, ensuring customers never abandon their carts.
-3. **Turnkey Delivery:** From design and domain setup to payment gateway integration and driver onboarding, we manage the technical execution so you can focus on farm operations and milk quality.
-4. **Rapid Deployment:** Because the core architecture and UI are already demonstrated in this prototype, we can take your full e-commerce store live in **just 2 to 3 weeks**.
-
----
-
 ## 📞 Let’s Launch Your Digital Storefront
 
 We are excited to help **BePure** become the leading direct-to-consumer farm dairy brand in Pune. 
